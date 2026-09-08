@@ -1,10 +1,7 @@
 {
   "skills": ["Python", "HTML", "CSS", "JavaScript", "MySQL", "Django", "Flask", "Git"],
   "experience_level": "Fresher",
-  "location_preference": ["India", "Remote", "Hybrid"],
-  "salary_filter": {
-    "min_lpa": 0,
-    "max_lpa": 50,
-    "currency": "INR"
-  }
+  "location_preference": ["Hyderabad", "Bangalore", "Chennai", "Pune", "India", "Remote"],
+  "preferred_cities": ["Hyderabad", "Bangalore", "Chennai", "Pune", "Mumbai", "Noida", "Gurgaon"],
+  "remote_ok": true
 }

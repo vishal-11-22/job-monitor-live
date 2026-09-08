@@ -98,7 +98,8 @@ class JobMonitor:
         return {
             "skills": ["Python", "HTML", "CSS", "JavaScript", "MySQL", "Django", "Flask", "Git"],
             "experience_level": "Fresher",
-            "location_preference": ["India", "Remote", "Hybrid"],
+            "location_preference": ["Hyderabad", "Bangalore", "Chennai", "Pune", "India", "Remote"],
+            "preferred_cities": ["Hyderabad", "Bangalore", "Chennai", "Pune"],
         }
 
     def load_json(self, filename):
@@ -384,6 +385,35 @@ class JobMonitor:
         return jobs
 
     # =========================================================================
+    # Location Matching (India / Hyderabad / South India优先)
+    # =========================================================================
+
+    INDIA_KEYWORDS = [
+        "india", "hyderabad", "bangalore", "bengaluru", "chennai", "pune",
+        "mumbai", "noida", "gurgaon", "delhi", "kolkata", "cochin",
+        "coimbatore", "visakhapatnam", "ahmedabad", "jaipur", "lucknow",
+        "chandigarh", "thiruvananthapuram", "mysore", "madurai",
+        "south india", "remote", "anywhere", "work from home", "wfh",
+        "hyd", "blr", "che", "bom", "del",
+    ]
+
+    def is_india_location(self, location):
+        loc = location.lower()
+        return any(kw in loc for kw in self.INDIA_KEYWORDS)
+
+    def location_score(self, location):
+        loc = location.lower()
+        preferred = self.config.get("preferred_cities", ["hyderabad", "bangalore", "chennai", "pune"])
+        for city in preferred:
+            if city.lower() in loc:
+                return 3  # top priority
+        if any(kw in loc for kw in ["india", "hyd", "blr", "che"]):
+            return 2
+        if any(kw in loc for kw in ["remote", "anywhere", "wfh", "work from home"]):
+            return 1
+        return 0
+
+    # =========================================================================
     # Job Filtering & Dedup
     # =========================================================================
 
@@ -397,6 +427,7 @@ class JobMonitor:
                 if jid not in self.seen_jobs:
                     job['match_pct'] = pct
                     job['matched_skills'] = skills
+                    job['loc_score'] = self.location_score(job.get('location', ''))
                     new_jobs.append(job)
                     self.seen_jobs[jid] = {
                         "title": job['title'],
@@ -405,6 +436,7 @@ class JobMonitor:
                         "date": datetime.now().isoformat(),
                     }
         self.save_json(self.seen_file, self.seen_jobs)
+        new_jobs.sort(key=lambda x: (x['loc_score'], x['match_pct']), reverse=True)
         return new_jobs
 
     # =========================================================================

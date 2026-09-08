@@ -1,98 +1,63 @@
 {
   "email": "vishal.reddy456456@gmail.com",
-  "skills": ["Python", "HTML", "CSS", "JavaScript", "MySQL", "Django", "Flask", "Git", "Web Development", "Software Developer"],
+  "skills": ["Python", "HTML", "CSS", "JavaScript", "MySQL", "Django", "Flask", "Git"],
   "experience_level": "Fresher",
   "companies": [
-    "TCS", "Accenture", "Cognizant", "Infosys", "HCLTech", "Wipro",
-    "Capgemini", "Tech Mahindra", "Deloitte", "IBM", "LTIMindtree",
-    "Coforge", "Genpact", "Persistent Systems", "Mphasis", "UST",
-    "Virtusa", "NTT DATA", "Hexaware Technologies", "DXC Technology",
-    "EPAM Systems", "Kyndryl", "CGI", "Birlasoft", "Zensar Technologies",
-    "Cyient", "L&T Technology Services", "KPIT Technologies", "Sonata Software",
-    "Mastek", "Sopra Steria", "FPT Software", "eClerx", "EXL",
-    "Firstsource", "Sutherland", "Concentrix", "Atos", "3i Infotech",
-    "Happiest Minds", "Google", "Microsoft", "Amazon", "Meta", "Apple"
+    "TCS", "Infosys", "Wipro", "HCLTech", "Cognizant", "Tech Mahindra",
+    "Capgemini", "IBM", "Deloitte", "Accenture", "LTIMindtree", "Coforge",
+    "Genpact", "Persistent Systems", "Mphasis", "UST", "Virtusa", "NTT DATA",
+    "Hexaware Technologies", "DXC Technology", "EPAM Systems", "Kyndryl",
+    "CGI", "Birlasoft", "Zensar Technologies", "Cyient", "L&T Technology Services",
+    "KPIT Technologies", "Sonata Software", "Mastek", "Sopra Steria", "FPT Software",
+    "eClerx", "EXL", "Firstsource", "Sutherland", "Concentrix", "Atos",
+    "3i Infotech", "Happiest Minds", "Google", "Microsoft", "Amazon", "Meta", "Apple"
   ],
   "company_career_pages": {
     "TCS": "https://www.tcs.com/careers",
     "Infosys": "https://www.infosys.com/careers.html",
     "Wipro": "https://careers.wipro.com/",
-    "HCLTech": "https://www.hcltech.com/careers",
-    "Cognizant": "https://www.cognizant.com/careers",
-    "Tech Mahindra": "https://techmahindra.com/careers",
+    "HCLTech": "https://careers.hcltech.com/",
+    "Cognizant": "https://careers.cognizant.com/",
+    "Tech Mahindra": "https://careers.techmahindra.com/",
     "Capgemini": "https://www.capgemini.com/careers/",
     "IBM": "https://www.ibm.com/careers",
-    "Deloitte": "https://jobs.deloitte.com/",
+    "Deloitte": "https://www.deloitte.com/global/en/careers/job-search.html",
     "Accenture": "https://www.accenture.com/in-en/careers",
-    "LTIMindtree": "https://www.ltimindtree.com/careers",
-    "Coforge": "https://www.coforge.com/careers",
+    "LTIMindtree": "https://careers.ltm.com/",
+    "Coforge": "https://careers.coforge.com/coforge/",
     "Genpact": "https://www.genpact.com/careers",
     "Persistent Systems": "https://www.persistent.com/careers/",
-    "Mphasis": "https://www.mphasis.com/careers",
-    "UST": "https://www.ust.com/careers",
+    "Mphasis": "https://careers.mphasis.com/home.html",
+    "UST": "https://www.ust.com/en/careers",
     "Virtusa": "https://www.virtusa.com/careers",
-    "NTT DATA": "https://us.nttdata.com/en/careers",
+    "NTT DATA": "https://www.nttdata.com/en-us/careers",
     "Hexaware Technologies": "https://www.hexaware.com/careers/",
-    "DXC Technology": "https://www.dxc.com/us/en/careers",
+    "DXC Technology": "https://careers.dxc.com/",
     "EPAM Systems": "https://www.epam.com/careers",
     "Kyndryl": "https://www.kyndryl.com/careers",
-    "CGI": "https://www.cgi.com/careers",
+    "CGI": "https://www.cgi.com/en/careers",
     "Birlasoft": "https://www.birlasoft.com/careers",
     "Zensar Technologies": "https://www.zensar.com/careers",
-    "Cyient": "https://www.cyient.com/careers/",
+    "Cyient": "https://www.cyient.com/careers",
     "L&T Technology Services": "https://www.ltts.com/careers",
-    "KPIT Technologies": "https://www.kpit.com/careers/",
+    "KPIT Technologies": "https://www.kpit.com/careers-overview/",
     "Sonata Software": "https://www.sonata-software.com/careers",
     "Mastek": "https://www.mastek.com/careers",
-    "Sopra Steria": "https://www.soprasteria.com/careers",
-    "FPT Software": "https://www.fpt-software.com/careers",
-    "eClerx": "https://www.eclerx.com/careers",
+    "Sopra Steria": "https://careers.soprasteria.com/",
+    "FPT Software": "https://fptsoftware.com/en",
+    "eClerx": "https://eclerx.com/careers/",
     "EXL": "https://www.exlservice.com/careers",
     "Firstsource": "https://www.firstsource.com/careers",
-    "Sutherland": "https://www.sutherlandglobal.com/careers",
-    "Concentrix": "https://www.concentrix.com/careers/",
-    "Atos": "https://www.atos.net/en/careers",
-    "3i Infotech": "https://www.3i-infotech.com/careers",
-    "Happiest Minds": "https://www.happiestminds.com/careers/",
+    "Sutherland": "https://www.jobs.sutherlandglobal.com/",
+    "Concentrix": "https://jobs.concentrix.com/",
+    "Atos": "https://atos.net/en/join-us",
+    "3i Infotech": "https://www.3i-infotech.com/careers/",
+    "Happiest Minds": "https://www.happiestminds.com/",
     "Google": "https://careers.google.com/",
     "Microsoft": "https://careers.microsoft.com/",
     "Amazon": "https://www.amazon.jobs/",
     "Meta": "https://www.metacareers.com/",
     "Apple": "https://www.apple.com/careers/"
-  },
-  "job_portals": {
-    "linkedin": {
-      "base_url": "https://www.linkedin.com/jobs/search/",
-      "search_params": "keywords={query}&location=India&f_E=2&f_JT=F"
-    },
-    "naukri": {
-      "base_url": "https://www.naukri.com/",
-      "search_params": "{query}-fresher-jobs"
-    },
-    "indeed": {
-      "base_url": "https://in.indeed.com/jobs",
-      "search_params": "q={query}&l=India&explvl=entry_level"
-    },
-    "glassdoor": {
-      "base_url": "https://www.glassdoor.com/Job/india-fresher-jobs-SRCH_IL.0,5_IN5_KO6,14.htm",
-      "search_params": ""
-    },
-    "foundit": {
-      "base_url": "https://www.foundit.in/",
-      "search_params": "search?query={query}&experience=fresher"
-    },
-    "shine": {
-      "base_url": "https://www.shine.com/",
-      "search_params": "job-search?q={query}&experience=0-1"
-    },
-    "timesjobs": {
-      "base_url": "https://www.timesjobs.com/",
-      "search_params": "job-search?keyword={query}&experience=0"
-    },
-    "monster": {
-      "base_url": "https://www.monsterindia.com/",
-      "search_params": "search?q={query}&experience=0"
-    }
   },
   "check_interval_minutes": 60,
   "location_preference": ["India", "Remote", "Hybrid"],

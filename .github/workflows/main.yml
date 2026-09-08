@@ -2,8 +2,8 @@ name: Job Monitor
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 */4 * * *'  # Every 4 hours (stays within JSearch free tier)
+  workflow_dispatch:        # Manual trigger
 
 jobs:
   check-jobs:
@@ -12,17 +12,32 @@ jobs:
     steps:
     - name: Checkout
       uses: actions/checkout@v4
-    
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Setup Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.11'
-    
+
     - name: Install dependencies
-      run: pip install requests beautifulsoup4
-    
+      run: pip install requests
+
     - name: Run Job Monitor
       env:
         EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
       run: python cloud_runner.py
+
+    - name: Commit seen_jobs.json
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add seen_jobs.json
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "chore: update seen_jobs [skip ci]"
+          git push
+        fi

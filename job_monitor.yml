@@ -1,0 +1,35 @@
+name: Job Monitor
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  check-jobs:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: pip install requests beautifulsoup4
+    
+    - name: Run Job Monitor
+      env:
+        EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
+        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
+      run: python cloud_job_monitor.py
+    
+    - name: Save results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: job-results
+        path: seen_jobs.json

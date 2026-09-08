@@ -2,8 +2,8 @@ name: Job Monitor
 
 on:
   schedule:
-    - cron: '0 */4 * * *'  # Every 4 hours (stays within JSearch free tier)
-  workflow_dispatch:        # Manual trigger
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
 
 jobs:
   check-jobs:
@@ -27,7 +27,6 @@ jobs:
       env:
         EMAIL_ADDRESS: ${{ secrets.EMAIL_ADDRESS }}
         EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}
-        RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
       run: python cloud_runner.py
 
     - name: Commit seen_jobs.json

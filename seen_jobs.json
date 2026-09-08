@@ -106,5 +106,479 @@
     "company": "PROGRESSIVE digital - Kock, Rietz GbR",
     "source": "Arbeitnow",
     "date": "2026-09-08T18:53:39.850336"
+  },
+  "f96dc298cb27edc619f4764cd5bbc04d": {
+    "title": "Account Executive - Italy",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778803"
+  },
+  "75e4ed207f9866c937614579321681f4": {
+    "title": "AI Engineer",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778847"
+  },
+  "23e607f76e1d0d8fbd9acbe8a9e451b9": {
+    "title": "AI Transformation Owner, CRO",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778872"
+  },
+  "fc2b5eabd077e0981abc662be97eb7df": {
+    "title": "AI Transformation Owner, Product & Design",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778896"
+  },
+  "2ad880d4dfaf15d61a4b1f98c2e51f22": {
+    "title": "Area Vice President - Financial Services ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778917"
+  },
+  "86480cde18cd82986da335915dfb7719": {
+    "title": "Associate Solutions Architect (French or German fluency) ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778946"
+  },
+  "5369bc70476e4c48480a84c6b8d0d871": {
+    "title": "Backend Engineer, AI Engineering: Duo Chat",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778968"
+  },
+  "61878aea9cd565ae276c62065da6f09d": {
+    "title": "Backend Engineer, Geo Team",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.778986"
+  },
+  "2a26605adc7d91107a65365633fb1f37": {
+    "title": "Backend Engineer (Ruby), AI Engineering: Agent Observability",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779008"
+  },
+  "deb63a5d502fd4bb4ccb5b833af05e1c": {
+    "title": "Business Development Representative ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779032"
+  },
+  "c1de40ea601d8e987fb7cfc0b96c43d0": {
+    "title": "Business Development Representative ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779051"
+  },
+  "776005090053e06bf11b4eb1a194ec47": {
+    "title": "Business Development Representative, German Speaking",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779071"
+  },
+  "59a48a0eb0bfcd8e905240ef4c9ff997": {
+    "title": "Business Development Representative - Nordics",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779090"
+  },
+  "cfc98c617aec4d4980da06302e9fbe00": {
+    "title": "Business Development Representative (Sydney or Melbourne)",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779109"
+  },
+  "a895b6767007a4159269fe006d8c5066": {
+    "title": "Business Development Representative, Turkish Speaking   ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779128"
+  },
+  "195f96a1f8274d6fd2ba5c357d635a7b": {
+    "title": "Candidate Experience Specialist, Contractor ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779148"
+  },
+  "0b7ce4b4597e42ba50121ec611807fcd": {
+    "title": "Chief of Staff, CRO ",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779167"
+  },
+  "792d12f49edc041d9efee473c721c64d": {
+    "title": "Commercial Account Executive - DACH",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779185"
+  },
+  "9165fc68a11f18d39e4c1c58bd70c37f": {
+    "title": "Commercial Account Executive - Mid-Market, Canada",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779204"
+  },
+  "ff22bdbcf74b89ee673330fc69db5223": {
+    "title": "Commercial Account Executive, Named - West",
+    "company": "GitLab",
+    "source": "GitLab (Greenhouse)",
+    "date": "2026-09-08T19:06:25.779221"
+  },
+  "db9c95ab607094d5519ffd8593080fc1": {
+    "title": "Commercial Account Executive (DACH)",
+    "company": "Datadog",
+    "source": "Datadog (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783013"
+  },
+  "2e7f6e227a4a4dd1e7c0f6691209fd96": {
+    "title": "Account Development Representative",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783171"
+  },
+  "42fa1bc51b2aa6518f3829c2eaafd60c": {
+    "title": "Account Development Representative",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783194"
+  },
+  "6014990422eb410c707198c4b78355b9": {
+    "title": "Account Development Representative",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783214"
+  },
+  "637690958ebf36d09c72db4e95f45aad": {
+    "title": "Account Development Representative",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783243"
+  },
+  "9f95a45d396c318eb1bb26ac763af7e7": {
+    "title": "Account Development Representative - English Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783266"
+  },
+  "0722a054c23b908d278cc82b1405d322": {
+    "title": "Account Development Representative, French Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783290"
+  },
+  "0234929513bd8adc7429cabc524e5beb": {
+    "title": "Account Development Representative, German Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783309"
+  },
+  "d64d851816e7a51d3d887347fdc115b2": {
+    "title": "Account Development Representative, Hebrew Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783327"
+  },
+  "b975a89c46003fdb68daa312e6fc505d": {
+    "title": "Account Development Representative, Italian Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783360"
+  },
+  "9be144b2d0487c20bbcd259078e007aa": {
+    "title": "Account Development Representative, Spanish Speaking",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783383"
+  },
+  "53ff253dd0b1b0da7ff4e19b95b87e3d": {
+    "title": "Account Executive, Acquisition",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783416"
+  },
+  "3fbfef7257002fb576eead90873ee767": {
+    "title": "Account Executive (Bahasa, Thai or Vietnamese Speaker)",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783446"
+  },
+  "98f44ffa61664022212399b55d57b3c0": {
+    "title": "Account Executive, Growth",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783479"
+  },
+  "62ffa0b57ffcd39e5ef51642aaf0b712": {
+    "title": "Account Executive, Growth",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783510"
+  },
+  "91ae2ff33df411c94ba869840707ff7a": {
+    "title": "Advisory Partner Solutions Architect",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783538"
+  },
+  "609fa619d55010f2f974c6fef50d6e9d": {
+    "title": "Advisory / Senior Solutions Architect",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783563"
+  },
+  "1df5ad3b997f51d90e7c7b80d36cb3fc": {
+    "title": "Advisory Solutions Architect",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783592"
+  },
+  "64924954aa6cb9b2743afba608fcdcd1": {
+    "title": "Advisory Solutions Architect",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783621"
+  },
+  "c2950148ef3b6e065156e904db509f47": {
+    "title": "Associate Commercial Growth Account Executive",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783653"
+  },
+  "40199989a6682fa4d39aa1c72f1840c3": {
+    "title": "Associate, HR Shared Services",
+    "company": "MongoDB",
+    "source": "MongoDB (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783684"
+  },
+  "7083c5224e5e60e535ccf82c3d029371": {
+    "title": "Digital Marketing Manager",
+    "company": "Twilio",
+    "source": "Twilio (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783890"
+  },
+  "1719b1f958c742d45f348cad2fcd2fa9": {
+    "title": "Digital Sales Representative",
+    "company": "Twilio",
+    "source": "Twilio (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783924"
+  },
+  "89776ea2b317911867f6771b09a37abd": {
+    "title": "Digital Sales Representative 2",
+    "company": "Twilio",
+    "source": "Twilio (Greenhouse)",
+    "date": "2026-09-08T19:06:25.783955"
+  },
+  "b46cddd31c15aa9e6efdb030425cfaad": {
+    "title": "Account Executive, Commercial",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784126"
+  },
+  "e315da27abd1f0b358f0ade466f59f60": {
+    "title": "Account Executive, Majors",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784148"
+  },
+  "c8322cd500e407b68331aa72fd0e0349": {
+    "title": "Account Executive, Majors (APAC)",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784169"
+  },
+  "ae4136307ac2dd1daec5dd6d30749690": {
+    "title": "Account Executive, Majors- Install Base (APAC)",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784189"
+  },
+  "c3b38a329fd5417ac0bfea61ff8ab933": {
+    "title": "Account Executive-Startups, EMEA (French Speaker)",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784209"
+  },
+  "98f10a7e5ded11b3187d77c9d581ec2d": {
+    "title": "Business Development Representative, Majors",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784232"
+  },
+  "4e26262cf9715ee4761a15e32c776b85": {
+    "title": "Commercial Account Executive, Greenfield ",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784254"
+  },
+  "1849e4da65e90f731a0dd43a3d12ff8d": {
+    "title": "Commercial Account Executive, Install Base",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784274"
+  },
+  "dbdf294e1b1a527ff7bb5593e034eb7b": {
+    "title": "DevRel Engineer, Agentic Infrastructure",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784296"
+  },
+  "062430ccb86a324483f883fc7d4fb257": {
+    "title": "Director, Commercial Sales, EMEA",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784317"
+  },
+  "f6113ac0b6a8fd3273141a87113d22a8": {
+    "title": "Director of Forward Deployed Engineering",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784339"
+  },
+  "196897646f4589ade83277c8a59ba537": {
+    "title": "Director, Solutions Architect",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784360"
+  },
+  "df0f896d7f8bbd1e98538994753dbd75": {
+    "title": "Engineering Manager, CDN",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784381"
+  },
+  "97439a750ca85439c605bec85d32053c": {
+    "title": "Enterprise Account Executive",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784401"
+  },
+  "5899e4014afa5ecef65ea85893911721": {
+    "title": "Enterprise Account Executive, Retail",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784422"
+  },
+  "0e6252fd06d1c7731b246cbc5e8f0237": {
+    "title": "Executive Marketing Program Lead",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784442"
+  },
+  "ce075b468a393504b0fe16c0f4a23ecc": {
+    "title": "Forward-Deployed Engineer\u00a0",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784463"
+  },
+  "390dc24b13d8b223fdaf84679c6fb3e3": {
+    "title": "FP&A Manager, Product",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784483"
+  },
+  "ff839585eafd810df110b15a2dba226a": {
+    "title": "Global Benefits Lead",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784503"
+  },
+  "6210995053d2cd126d55857fc5b0ca13": {
+    "title": "GRC Analyst",
+    "company": "Vercel",
+    "source": "Vercel (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784524"
+  },
+  "552335460abf79e08c482451528f197d": {
+    "title": "Senior Software Engineer, Convert (Backend/Infra)",
+    "company": "Webflow",
+    "source": "Webflow (Greenhouse)",
+    "date": "2026-09-08T19:06:25.784915"
+  },
+  "10d44062f15904e9d8af0dd0d56c589a": {
+    "title": "Expression of Interest Can\u00e2\u0080\u0099t see a role that\u00e2\u0080\u0099s right for you",
+    "company": "C2 Group",
+    "source": "RemoteOK",
+    "date": "2026-09-08T19:06:25.787725"
+  },
+  "fbd1523efa0afee0b8edddc4776de91c": {
+    "title": "Commercial Building Estimator",
+    "company": "Complex Co.",
+    "source": "RemoteOK",
+    "date": "2026-09-08T19:06:25.788152"
+  },
+  "d72a2f78b0170f0dfd56c246bb0bdf17": {
+    "title": "Airport Ground Staff Customer Service Associate",
+    "company": "Fronix Services",
+    "source": "RemoteOK",
+    "date": "2026-09-08T19:06:25.788252"
+  },
+  "8d69928d47f3369039932cbed2100c63": {
+    "title": "courier",
+    "company": "FedEx",
+    "source": "RemoteOK",
+    "date": "2026-09-08T19:06:25.788659"
+  },
+  "059c0fded4433192ce58801a8f4612fc": {
+    "title": "Now Hiring",
+    "company": "Greater Pell City Chamber of Commerce",
+    "source": "RemoteOK",
+    "date": "2026-09-08T19:06:25.789050"
+  },
+  "09e1449a892be0fba1313280a5afe734": {
+    "title": "Enterprise Solution Engineer - Central",
+    "company": "Sigma Computing",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.790931"
+  },
+  "02827c45af030889ff0adadc0e515682": {
+    "title": "C, Golang Software Engineer working on dqlite, a Raft extension for SQLite",
+    "company": "Canonical",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791580"
+  },
+  "b3186f737f3234049c0a23f483aac1f3": {
+    "title": "Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )",
+    "company": "CertiK",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791631"
+  },
+  "5c34d43a58e5041286ef3a95ff97a0b9": {
+    "title": "Client Full-Stack Engineer \u2014 IM Chat Platform, Android Focus",
+    "company": "Binance",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791765"
+  },
+  "bc2466fc4c36dfc416a78799f817aa96": {
+    "title": "Data/ Java Engineer (AI/LLM Chatbot, Customer Service)",
+    "company": "Binance",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791796"
+  },
+  "ea99c3398faec7f33eb29509bfb8224e": {
+    "title": "Senior Backend Engineer, AI Engineering: Chat",
+    "company": "GitLab",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791821"
+  },
+  "ce189c46bf8f49731651b2fc5ac97758": {
+    "title": "Senior SDET - GovTech Industry",
+    "company": "Truelogic",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791933"
+  },
+  "2c1470a6a9adfe9b1af931da9976bb4c": {
+    "title": "Binance Acceleration Program - Product Data Analyst",
+    "company": "Binance",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.791985"
+  },
+  "ffd76f1ac65bf74bdffa55f7a7ef1d1e": {
+    "title": "Senior Technical Writer",
+    "company": "Ping Identity",
+    "source": "Jobicy",
+    "date": "2026-09-08T19:06:25.792056"
   }
 }

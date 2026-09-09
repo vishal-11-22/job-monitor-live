@@ -1,7 +1,7 @@
 {
   "skills": ["Python", "HTML", "CSS", "JavaScript", "MySQL", "Django", "Flask", "Git"],
   "experience_level": "Fresher",
-  "location_preference": ["Hyderabad", "Bangalore", "Chennai", "Pune", "India", "Remote"],
+  "location_preference": ["India", "Remote"],
   "preferred_cities": ["Hyderabad", "Bangalore", "Chennai", "Pune", "Mumbai", "Noida", "Gurgaon"],
-  "remote_ok": true
+  "india_only": true
 }
